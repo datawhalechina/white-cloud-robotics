@@ -8,7 +8,7 @@
   <summary><b>机器人视觉</b></summary>
 
   - <details open>
-    <summary>yolo系列</summary>
+    <summary><b>yolo系列</b></summary>
 
       - <details open>
         <summary>yolov8</summary>
@@ -50,7 +50,7 @@
     </details>
 
   - <details open>
-    <summary>无人机大模型</summary>
+    <summary><b>无人机大模型</b></summary>
 
       - <details open>
         <summary>ChatGLM for robotics</summary>
