@@ -1,12 +1,79 @@
-# 项目名称
+# white-cloud-robotics
 
-这里写项目的各类介绍信息，例如：
+&emsp;&emsp;本项目旨在为广大读者提供一个全面、专业的AI+Robot项目仓库，通过丰富的实例和技术简介，帮助读者深入了解如何控制无人机、无人车等智能机器人，并将其与人工智能结合，完成各种复杂任务。项目仓库致力于构建一个开放、共享的学习平台，让每一位对AI与机器人技术感兴趣的读者都能从中受益。
 
-- 项目背景、动机等简介内容
-- 项目内容目录
-- ....
+## 目录
 
-## Roadmap
+<details open>
+  <summary><b>机器人视觉</b></summary>
+
+  - <details open>
+    <summary>yolo系列</summary>
+
+      - <details open>
+        <summary>yolov8</summary>
+        
+        * 框架讲解
+        * yaml文件详解
+        * 任务介绍
+        * 安装运行
+        </details>
+    </details>
+</details>
+
+<details open>
+  <summary><b>无人车</b></summary>
+
+  - <details open>
+      <summary><b>无人车编队控制</b></summary>
+
+      * 图论基础知识
+      * 无人车编队控制理论
+      * airsim安装教程
+      * airsim无人车环境配置讲解
+      * 代码详解
+      * 运行展示
+</details>
+
+<details open>
+  <summary><b>无人机</b></summary>
+
+  - <details open>
+      <summary><b>无人机编队控制</b></summary>
+
+      * 图论基础知识
+      * 无人机编队控制理论
+      * airsim安装教程
+      * airsim无人机环境配置讲解
+      * 代码详解
+      * 运行展示
+    </details>
+
+  - <details open>
+    <summary>无人机大模型</summary>
+
+      - <details open>
+        <summary>ChatGLM for robotics</summary>
+        
+        * airsim安装教程
+        * ChatGLM安装和基础使用
+        * 无人机prompt学习
+        * 代码详解
+        * 运行展示
+        </details>
+
+      - <details open>
+        <summary>基于yolov8目标检测的无人机大模型</summary>
+        
+        * airsim安装教程
+        * ChatGLM安装和基础使用
+        * 无人机目标检测代码详解
+        * 基于大语言模型的无人机任务代码详解
+        * 运行展示
+        </details>
+    </details>
+</details>
+
 
 *注：说明当前项目的规划，并将每个任务通过 Issue 形式进行对外进行发布。*
 
